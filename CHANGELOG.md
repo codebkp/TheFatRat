@@ -1,5 +1,10 @@
 ## CHANGELOG
-
+* v1.9.5 - 64bit exe option added in powerfull.sh
+* v1.9.5 - Fixes in backdoor-factory option
+* v1.9.5 - Obfuscation method implemented in powerstager & ability to choose icon for rat EXE in powerstager
+* v1.9.5 - Desktop shortcut implemeted in setup
+* v1.9.5 - Update Android Build Tools -> R26 & Android Platform -> 26-R01
+* v1.9.5 - Update powerstager to 0.2.5
 * v1.9.5 - Code missing in fudwin (fixed)
 * v1.9.5 - added dll injection attack 
 * v1.9.5 - update function () creator script into ver 1.3

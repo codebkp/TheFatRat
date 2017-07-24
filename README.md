@@ -87,7 +87,8 @@ Be sure to check out the [Changelog] and Read CHANGELOG.md
 - Cyborg
 - Parrot 
 - BackTrack 
-- Backbox  
+- Backbox 
+- Devuan
 
 
 
